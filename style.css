@@ -1,0 +1,132 @@
+:root{
+    --blue:#2980b9;
+    --light-blue:#ecf4f9;
+    --border:1px solid rgba(0,0,0,.1);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    padding-bottom: 70px;
+    background: #f0f3f5;
+    min-height: 100vh;
+}
+
+.container form{
+    width: 600px;
+    box-shadow: 0 10px 15px rgba(0,0,0,.1);
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.container form .links{
+    background: #fff;
+    padding: 30px 15px;
+}
+
+.container form .title{
+    font-size: 17px;
+    padding-bottom: 15px;
+    color: #666;
+}
+
+
+.container form .links .buttons .btn{
+    font-size: 17px;
+    margin: 5px;
+    display: inline-block;
+    background: var(--light-blue);
+    border: var(--border);
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: #333;
+}
+
+.container form .links .buttons .btn i{
+    padding-right: 5px;
+    color: #333;
+}
+
+.container form .links .buttons .btn:hover{
+    color: #fff;
+    background: var(--blue);
+}
+
+.container form .links .buttons .btn:hover i{
+    color: #fff;
+}
+
+.container form .input-box{
+    padding: 30px;
+    background: var(--light-blue);
+}
+
+.container form .input-box .input{
+    margin: 15px auto;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,.1);
+    border: var(--border);
+}
+
+.container form .input-box .input input{
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #333;
+    text-transform: none;
+}
+
+.container form .input-box .input span{
+    color: #999;
+    padding-right: 5px;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.container form .checkbox{
+    text-align: left;
+    padding: 10px 0;
+}
+
+.container form .checkbox label{
+    font-size: 17px;
+    color: #333;
+    cursor: pointer;
+}
+
+.container form .sign-in-btn{
+    padding: 10px 40px;
+    margin-top: 10px;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 5px;
+    background: var(--blue);
+    cursor: pointer;
+    transition: .2s linear;
+}
+
+.container form .sign-in-btn:hover{
+    letter-spacing: 2px;
+}
+
