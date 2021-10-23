@@ -1,11 +1,7 @@
-# Formulário de Login Responsivo com Puro HTML e CSS
+# Formulário de Login Responsivo com HTML e CSS
 
-<img src="img-project.png" alt="imagem do projeto">
-
-Esse projeto é um formulário de login feito apenas com html e css, o qual apresenta um layout simples.
+Esse projeto é um formulário de login responsivo feito apenas com html e css.
 
 ## Antevisão
 
-Visualize o exemplo ao vivo no [Vercel](https://vercel.com/):
-
-[![Abrir no Netlifly]](https://jolly-poincare-94eafb.netlify.app/)
+[![Abrir no Netlifly]](https://competent-yalow-656e04.netlify.app/)
