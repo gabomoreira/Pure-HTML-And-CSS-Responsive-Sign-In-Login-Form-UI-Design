@@ -4,4 +4,4 @@ Esse projeto é um formulário de login responsivo feito apenas com html e css.
 
 ## Antevisão
 
-[![Abrir no Netlifly]](https://competent-yalow-656e04.netlify.app/)
+[![Abrir no Netlifly]](https://jolly-poincare-94eafb.netlify.app/)
