@@ -8,4 +8,4 @@ Esse projeto é um formulário de login feito apenas com html e css, o qual apre
 
 Visualize o exemplo ao vivo no [Vercel](https://vercel.com/):
 
-[![Abrir no Netlifly](https://jolly-poincare-94eafb.netlify.app/)
+[![Abrir no Netlifly]](https://jolly-poincare-94eafb.netlify.app/)
