@@ -13,9 +13,7 @@
 ## ☕ Usando Formulário de Login Responsivo com HTML e CSS
 Para usar Formulário de Login, clique no link abaixo:
 
-```
 [![Abrir com Netlifly]](https://formulario-de-login.netlify.app/)
-```
 
 ## 🤝 Colaborador
 
